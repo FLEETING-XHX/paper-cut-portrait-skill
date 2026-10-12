@@ -1,4 +1,4 @@
 interface:
   display_name: "纸刻合影"
   short_description: "将人物照片变成暖纸底无五官剪纸版画，默认上原图下插画，也可只出 AI 图"
-  default_prompt: "使用 $paper-cut-portrait 将我发的原图制作成纸刻合影，默认上原图、下插画，无额外文字。"
+  default_prompt: "使用 $paper-cut-portrait 将我发的原图制作成纸刻合影，默认上原图、下插画，不额外添加文字或图标，原图已有的文字和图标可以纳入生成。"
